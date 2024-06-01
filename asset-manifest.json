@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/ecommerce/static/css/main.55e5c6bc.css",
-    "main.js": "/ecommerce/static/js/main.c1d6b241.js",
+    "main.js": "/ecommerce/static/js/main.af5f190c.js",
     "static/js/206.2701e0a5.chunk.js": "/ecommerce/static/js/206.2701e0a5.chunk.js",
     "index.html": "/ecommerce/index.html"
   },
   "entrypoints": [
     "static/css/main.55e5c6bc.css",
-    "static/js/main.c1d6b241.js"
+    "static/js/main.af5f190c.js"
   ]
 }
